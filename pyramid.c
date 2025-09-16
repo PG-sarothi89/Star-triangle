@@ -1,6 +1,5 @@
-// code for star pyramid
-
-
+    // code for star pyramid
+    
 #include <stdio.h>
 int main()
 {
@@ -15,5 +14,4 @@ int main()
         }
         printf("\n");
     }
-  
 }
