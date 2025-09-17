@@ -1,4 +1,5 @@
     // code for star pyramid
+// Fix the code
     
 #include <stdio.h>
 int main()
